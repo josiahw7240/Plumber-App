@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Plumber-App/static/css/main.c0a80c24.css",
+    "main.js": "/Plumber-App/static/js/main.8f49d501.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Plumber-App/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.png": "/Plumber-App/static/media/logo.fa15e7fa8d7f0cfe3407.png",
+    "index.html": "/Plumber-App/index.html",
+    "main.c0a80c24.css.map": "/Plumber-App/static/css/main.c0a80c24.css.map",
+    "main.8f49d501.js.map": "/Plumber-App/static/js/main.8f49d501.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Plumber-App/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0a80c24.css",
+    "static/js/main.8f49d501.js"
+  ]
+}
